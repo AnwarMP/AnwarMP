@@ -10,6 +10,9 @@
 - **Technologies:** Espresso, Express.js, TensorFlow, PyTorch, jQuery, Flask, Node.js, Android SDK, iOS SDK, Git, Keras, TCP/IP, MongoDB, NoSQL, Android Studio
 
 #### 🛠 Experience
+- **STMicroelectronics, Machine Learning and Algorithms Intern**
+  - **Santa Clara, CA (April 2024 - Current)**
+      - Developing and implementing machine learning algorithms and projects
 - **Google, Software Engineer Intern**
   - **Mountain View, CA (May 2023 – Aug 2023)**
     - Engineered a comprehensive testing framework for iOS mobile client to backend integration.
