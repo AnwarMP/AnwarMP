@@ -1,5 +1,8 @@
 ### Hi there, I'm Anwar Mujeeb 👋
 
+### Contact: 
+**anwar.mujeebp [at] gmail.com**
+
 #### 📚 Education
 - **San Jose State University**
   - B.S. CS, Expected Grad: May 2025
