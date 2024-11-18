@@ -3,6 +3,7 @@
 ### Contact: 
 **anwar.mujeebp [at] gmail.com**
 
+### Website: [anwr.xyz](anwr.xyz)
 #### 📚 Education
 - **San Jose State University**
   - B.S. CS, Expected Grad: May 2025
